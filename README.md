@@ -14,24 +14,24 @@ https://www.researchgate.net/publication/394588361_Factors_causing_weight_loss_a
 Tanggal akses: 12 November 2026
 
 S2 – Pratama dkk. (2016). 
-Judul: Pengaruh Perbedaan Transportasi Sistem M-CLOVE dengan Konvensional dan Jenis Kelamin terhadap Respon Fisiologis Ayam Broiler. 
-Penerbit: Departemen Ilmu Produksi dan Teknologi Peternakan, Fakultas Peternakan IPB University, bersama HILPI (Jurnal Ilmu Produksi dan Teknologi Hasil Peternakan 4(1):204–211). 
-https://journal.ipb.ac.id/ipthp/article/view/15717/11580. 
+Judul: Pengaruh Perbedaan Transportasi Sistem M-CLOVE dengan Konvensional dan Jenis Kelamin terhadap Respon Fisiologis Ayam Broiler  
+Penerbit: Departemen Ilmu Produksi dan Teknologi Peternakan, Fakultas Peternakan IPB University, bersama HILPI (Jurnal Ilmu Produksi dan Teknologi Hasil Peternakan 4(1):204–211)  
+https://journal.ipb.ac.id/ipthp/article/view/15717/11580  
 Tanggal akses: 12 November 2026
 
-S3 – Wicaksono dkk. (2020). 
-Judul: Oxidative Stress, Physiological Responses and Performance of Broilers Transported with Different Transportation Duration. 
-Penerbit: Departemen Ilmu Produksi dan Teknologi Peternakan, Fakultas Peternakan IPB University, bersama HILPI (JIPTHP 8(3):137–143). 
+S3 – Wicaksono dkk. (2020).  
+Judul: Oxidative Stress, Physiological Responses and Performance of Broilers Transported with Different Transportation Duration  
+Penerbit: Departemen Ilmu Produksi dan Teknologi Peternakan, Fakultas Peternakan IPB University, bersama HILPI (JIPTHP 8(3):137–143)  
 https://journal.ipb.ac.id/ipthp/article/view/33158/20615. 
 Tanggal akses: 12 November 2026
 
-S4 – Tamzil dkk. (2022). 
+S4 – Tamzil dkk. (2022).  
 Judul: Stres pengangkutan pada ternak unggas, pengaruh dan upaya penanggulangan. 
-Penerbit: Universitas Sebelas Maret, jurnal Livestock and Animal Research 20(1):48–58.  
+Penerbit: Universitas Sebelas Maret, jurnal Livestock and Animal Research 20(1):48–58  
 https://jurnal.uns.ac.id/lar/article/view/53135/35282. 
 Tanggal akses: 12 November 2026
 
-S5 – Yuandi dkk. (2020). 
+S5 – Yuandi dkk. (2020).
 Judul: Implementation Assessment of Animal Welfare on Poultry Slaughter House in Kisaran City Asahan District. 
 Penerbit: Universitas Syiah Kuala (Jurnal Medika Veterinaria 14(1):1–13). 
 https://www.researchgate.net/publication/408050679_1_Implementation_Assessment_of_Animal_Welfare_on_Poultry_Slaughter_House_in_Kisaran_City_Asahan_District. 
