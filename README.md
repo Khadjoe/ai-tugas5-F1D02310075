@@ -7,9 +7,12 @@ NIM  : F1D02310075
 
 ## Daftar sumber (judul, penerbit, URL, tanggal akses) dan tabel aturan
 S1 – Afnan, Afnan & Ulupi (2026)
+
 Judul: Factors causing weight loss and death of broiler chickens during
 the transportation process
+
 Penerbit: Faculty of Veterinary Medicine, Chiang Mai University (jurnal Veterinary Integrative Sciences 24(1):1–12)
+
 https://www.researchgate.net/publication/394588361_Factors_causing_weight_loss_and_death_of_broiler_chickens_during_the_transportation_process 
 Tanggal akses: 12 November 2026
 
