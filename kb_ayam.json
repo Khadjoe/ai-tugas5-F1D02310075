@@ -1,0 +1,87 @@
+{
+  "judul": "Sistem Pakar Diagnosis Kondisi Ayam Broiler Selama Pengangkutan",
+  "batas": "Aturan ini disusun berdasarkan 6 sumber literatur ilmiah dan standar internasional (Afnan dkk. 2026, Pratama dkk. 2016, Wicaksono dkk. 2020, Tamzil dkk. 2022, Yuandi dkk. 2020, dan WOAH 2021) yang berfokus pada respons fisiologis, stres panas, kepadatan, dan cedera fisik ayam broiler selama proses pengangkutan. Sistem ini hanya mengevaluasi gejala luar yang dapat diamati atau diukur secara langsung di lapangan dan tidak mencakup pemeriksaan laboratorium atau bedah bangkai. Hasil yang ditampilkan merupakan indikasi atau saran awal, bukan keputusan medis atau diagnosis akhir.",
+  "sumber": {
+    "S1": "Afnan, Afnan & Ulupi (2026). Factors causing weight loss and death of broiler chickens during the transportation process. Faculty of Veterinary Medicine, Chiang Mai University (Veterinary Integrative Sciences 24(1):1-12). https://www.researchgate.net/publication/394588361_Factors_causing_weight_loss_and_death_of_broiler_chickens_during_the_transportation_process (diakses 12 November 2026)",
+    "S2": "Pratama dkk. (2016). Pengaruh Perbedaan Transportasi Sistem M-CLOVE dengan Konvensional dan Jenis Kelamin terhadap Respon Fisiologis Ayam Broiler. Departemen Ilmu Produksi dan Teknologi Peternakan, Fakultas Peternakan IPB University bersama HILPI (JIPTHP 4(1):204-211). https://journal.ipb.ac.id/ipthp/article/view/15717/11580 (diakses 12 November 2026)",
+    "S3": "Wicaksono dkk. (2020). Oxidative Stress, Physiological Responses and Performance of Broilers Transported with Different Transportation Duration. Departemen Ilmu Produksi dan Teknologi Peternakan, Fakultas Peternakan IPB University bersama HILPI (JIPTHP 8(3):137-143). https://journal.ipb.ac.id/ipthp/article/view/33158/20615 (diakses 12 November 2026)",
+    "S4": "Tamzil dkk. (2022). Stres pengangkutan pada ternak unggas, pengaruh dan upaya penanggulangan. Universitas Sebelas Maret (Livestock and Animal Research 20(1):48-58). https://jurnal.uns.ac.id/lar/article/view/53135/35282 (diakses 12 November 2026)",
+    "S5": "Yuandi dkk. (2020). Implementation Assessment of Animal Welfare on Poultry Slaughter House in Kisaran City Asahan District. Universitas Syiah Kuala (Jurnal Medika Veterinaria 14(1):1-13). https://www.researchgate.net/publication/408050679_1_Implementation_Assessment_of_Animal_Welfare_on_Poultry_Slaughter_House_in_Kisaran_City_Asahan_District (diakses 12 November 2026)",
+    "S6": "WOAH (2021). Terrestrial Animal Health Code, Chapter 7.10: Animal welfare and broiler chicken production systems. World Organisation for Animal Health (WOAH). https://www.woah.org/fileadmin/Home/eng/Health_standards/tahc/2021/en_chapitre_aw_broiler_chicken.htm (diakses 12 November 2026)"
+  },
+  "aturan": [
+    {
+      "id": "R1",
+      "jika": [
+        "ayam terengah-engah",
+        "sayap direntangkan"
+      ],
+      "mode": "atau",
+      "maka": "kegerahan",
+      "sumber": "S1, S6"
+    },
+    {
+      "id": "R2",
+      "jika": [
+        "suhu rektal > 41,5°C",
+        "suhu jengger/kaki naik"
+      ],
+      "mode": "atau",
+      "maka": "suhu terlalu tinggi",
+      "sumber": "S2, S3, S4"
+    },
+    {
+      "id": "R3",
+      "jika": [
+        "kegerahan",
+        "suhu terlalu tinggi"
+      ],
+      "mode": "dan",
+      "maka": "stres panas",
+      "sumber": "S2"
+    },
+    {
+      "id": "R4",
+      "jika": [
+        "memar",
+        "patah sayap",
+        "patah kaki"
+      ],
+      "mode": "atau",
+      "maka": "cedera fisik",
+      "sumber": "S4, S1"
+    },
+    {
+      "id": "R5",
+      "jika": [
+        "cedera fisik",
+        "stres panas"
+      ],
+      "mode": "dan",
+      "maka": "ayam melemah (risiko mati di perjalanan meningkat)",
+      "sumber": "S1, S4"
+    },
+    {
+      "id": "R6",
+      "jika": [
+        "ayam melemah (risiko mati di perjalanan meningkat)",
+        "kepadatan berlebih"
+      ],
+      "mode": "dan",
+      "maka": "risiko hipertermia dan kematian tinggi",
+      "sumber": "S1"
+    },
+    {
+      "id": "R7",
+      "jika": [
+        "napas normal",
+        "diam/berbaring tenang",
+        "leher dijulurkan",
+        "sayap terkulai"
+      ],
+      "mode": "dan",
+      "maka": "ayam dalam kondisi nyaman dan sehat",
+      "sumber": "S2, S5"
+    }
+  ]
+}
