@@ -90,10 +90,7 @@ ightarrow$ kesimpulan* pada Forward Chaining paling sesuai dengan proses evaluas
 
 | # | Jawaban "Ya" | Kesimpulan yang Diharapkan |
 | :-: | :--- | :--- |
-| 1 | `ayam terengah-engah`, `suhu rektal > 41,5°C`, `memar`, `kepadatan berlebih` | `risiko hipertermia dan kematian tinggi` (melalui rantai R1, R2 $
---> R3, R4 $
---> R5 $
---> R6) |
+| 1 | `ayam terengah-engah`, `suhu rektal > 41,5°C`, `memar`, `kepadatan berlebih` | `risiko hipertermia dan kematian tinggi` (melalui rantai R1, R2 --> R3, R4 --> R5 --> R6) |
 | 2 | `napas normal`, `diam/berbaring tenang`, `leher dijulurkan`, `sayap terkulai` | `ayam dalam kondisi nyaman dan sehat` (melalui R7) |
 | 3 | `kepadatan berlebih` saja | **tidak ada** (kasus negatif — fakta belum cukup memicu aturan mana pun) |
 
@@ -114,4 +111,4 @@ Aturan ini disusun berdasarkan 6 sumber literatur ilmiah dan standar internasion
 ---
 
 ## 7. Penggunaan Alat Bantu AI
-Alat bantu AI (Gemini) digunakan secara terbatas sebagai referensi tambahan, terutama untuk membantu *debugging* ringan pada pembacaan file JSON di Java, mengecek konsistensi penulisan aturan, serta merapikan format dokumentasi `README.md`. Pemilihan sumber, perancangan aturan IF-THEN, alur *Forward Chaining*, dan implementasi program utama disusun serta dipahami sendiri oleh penulis.
+Alat bantu AI (Gemini) digunakan untuk brainstorming dan untuk membantu *debugging* ringan pada pembacaan file JSON di Java, mengecek konsistensi penulisan aturan, serta merapikan format dokumentasi `README.md`.  alur *Forward Chaining*, dan implementasi program utama disusun serta dipahami sendiri oleh penulis.
